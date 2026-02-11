@@ -63,7 +63,6 @@ export default function Footer() {
           </a>
         </div>
 
-        {/* COLUMNA CONTACTO */}
         <div className="footer-column">
           <span className="footer-title">Contáctanos</span>
 
@@ -84,7 +83,7 @@ export default function Footer() {
 
       </div>
 
-      {/* DIVISOR */}
+
       <div className="footer-divider" />
 
       <div className="footer-bottom">
